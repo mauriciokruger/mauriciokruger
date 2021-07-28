@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauriciokruger" alt="mauriciokruger" /></a> </p>
 
+- I am currently CTO at D3T Softwares Personalizados [D3T Softwares Personalizados](https://d3t.com.br/)
+
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 💬 Ask me about **javascript, react, vue, react-native**
