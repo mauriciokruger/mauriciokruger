@@ -40,4 +40,4 @@
 </div>
 
 
-![Snake animation](https://github.com/mauriciokruger/mauriciokruger/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/mauriciokruger/mauriciokruger/blob/output/github-contribution-grid-snake.svg) -->
