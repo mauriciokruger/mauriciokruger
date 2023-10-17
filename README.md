@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **javascript, react, vue, react-native**
+- 💬 Ask me about **javascript, vue, react, react-native, laravel**
 
 - 📫 How to reach me **mauricio@d3t.com.br**
 
