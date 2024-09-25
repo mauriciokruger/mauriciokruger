@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mauricio@d3t.com.br**
 
-- ⚡ Fun fact **https://codepen.io/maukruger**
+- ⚡ Cool things **https://codepen.io/maukruger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
