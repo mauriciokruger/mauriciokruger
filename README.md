@@ -35,10 +35,10 @@
 <!-- <div style="display: inline_block"><br><br><br><br><br><br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciokruger&count_private=true&theme=dark&show_icons=true&locale=en" alt="mauriciokruger" /></p>
 </div> -->
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciokruger&theme=dark" alt="mauriciokruger" /></p>
-</div>
-
+</div>-->
+<p>&nbsp;</p>
 -for fun: https://jogo-digitacao.vercel.app/
 
 
