@@ -39,5 +39,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciokruger&theme=dark" alt="mauriciokruger" /></p>
 </div>
 
+-for fun: https://jogo-digitacao.vercel.app/
+
 
 <!-- ![Snake animation](https://github.com/mauriciokruger/mauriciokruger/blob/output/github-contribution-grid-snake.svg) -->
