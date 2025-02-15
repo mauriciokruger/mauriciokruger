@@ -40,7 +40,7 @@
 </div>-->
 <p>&nbsp;</p>
 <div style="display: inline_block">
--for fun: https://jogo-digitacao.vercel.app/
+- 🎮 For fun: https://jogo-digitacao.vercel.app/
 </div>
 
 
