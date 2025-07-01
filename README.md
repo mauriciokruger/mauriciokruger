@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauriciokruger&label=Profile%20views&color=0e75b6&style=flat" alt="mauriciokruger" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauriciokruger&theme=monokai&margin-w=15" alt="mauriciokruger" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauriciokruger&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15" alt="mauriciokruger" /></a> </p>
 
 - I am currently developer at [D3T Inovação Tecnológica](https://d3t.com.br/)
 
