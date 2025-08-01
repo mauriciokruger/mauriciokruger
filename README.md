@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Maurício Gabriel Krüger</h1>
+<h1 align="center">Hi 👋, I'm Maurício Krüger</h1>
 <h3 align="center">A passionate front-end developer from Brazil 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauriciokruger&label=Profile%20views&color=0e75b6&style=flat" alt="mauriciokruger" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauriciokruger&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15" alt="mauriciokruger" /></a> </p>
 
-- I am currently developer at [D3T Inovação Tecnológica](https://d3t.com.br/)
+- 💼 Currently working as a developer at **[D3T Inovação Tecnológica](https://d3t.com.br/)**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 Check out my work here on **[GitHub](GitHub)**
 
-- 💬 Ask me about **javascript, vue, react, react-native, php, laravel**
+- 💬 I like to talk about **JavaScript, Vue, React, React Native, PHP, Laravel**
 
-- 📫 How to reach me **mauricio@d3t.com.br**
+- 📫 Reach me at **mauricio@d3t.com.br**
 
-- ⚡ Cool things **https://codepen.io/maukruger**
+- ⚡ I also build fun stuff on **https://codepen.io/maukruger**
 
-- 🎮 For fun: https://jogo-digitacao.vercel.app/
+- 🎮 Play one of my side projects **https://jogo-digitacao.vercel.app/**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
