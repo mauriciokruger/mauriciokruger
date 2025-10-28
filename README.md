@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauriciokruger&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15" alt="mauriciokruger" /></a> </p>
 
-- 💼 Currently working as a developer at **[D3T Inovação Tecnológica](https://d3t.com.br/)**
+- 💼 Currently working as a developer at **[D3T Softwares Personalizados](https://d3t.com.br/)**
 
 - 👨‍💻 Check out my work here on **[GitHub](GitHub)**
 
